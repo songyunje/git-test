@@ -2,4 +2,6 @@ HELLO SSAFY 9TH
 
 CLASS 6 LETS GO
 
-git-test-cloned에서 수정됨
+
+git-test에서 수정됨
+
