@@ -1,1 +1,3 @@
 AMERICANO
+
+git-test-cloned에서 수정함
